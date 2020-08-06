@@ -1,0 +1,18 @@
+.container {
+  position: relative;
+  text-align: center;
+}
+
+.container h2 {
+  font-size: 5rem;
+}
+
+.container a {
+  font-size: 1.4rem;
+}
+
+.ripplesIcon {
+  position: absolute;
+  left: calc(50%);
+  top: calc(50%);
+}
